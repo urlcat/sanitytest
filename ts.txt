@@ -8,4 +8,9 @@
    yahoo.com
    dictionary.com
    yelp.com
+   britannica.com
+   tripadvisor.com
+   linkedin.com
+   espn.com
+   weather.com
 

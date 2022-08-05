@@ -1,0 +1,11 @@
+   google.com
+   facebook.com
+   amazon.com
+   imdb.com
+   merriam-webster.com
+   apple.com
+   pinterest.com
+   yahoo.com
+   dictionary.com
+   yelp.com
+

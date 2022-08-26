@@ -18,3 +18,13 @@
    JAN6ARCHIVE.COM
    CAPITOLMAP.COM
    REDDIYT.COM
+   netflix.com
+   rottentomatoes.com
+   spotify.com
+   livescore.com
+   investopedia.com
+   indeed.com
+   bestbuy.com
+   samsung.com
+   ebay.com
+   ytmp3.cc   
